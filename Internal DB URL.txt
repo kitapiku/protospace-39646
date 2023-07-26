@@ -1,0 +1,3 @@
+Internal DB URL
+
+postgres://protospace_39646_production_user:mKRLWmwi2AMzLpDXa5dxvYtuSQKilE6s@dpg-civq96407spr6t9kjjj0-a/protospace_39646_production
